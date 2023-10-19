@@ -1,2 +1,1 @@
-### hello world 🌱
-im wizard novax
+### 🌱 hello world 🌱
